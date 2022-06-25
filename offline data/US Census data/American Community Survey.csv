@@ -1,0 +1,15 @@
+Code,Name,Survey
+DP02,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,https://data.census.gov/cedsci/table?q=demographic&tid=ACSDP5Y2020.DP02
+DP03,SELECTED ECONOMIC CHARACTERISTICS,https://data.census.gov/cedsci/table?q=Employment&tid=ACSDP5Y2020.DP03
+DP04,SELECTED HOUSING CHARACTERISTICS,https://data.census.gov/cedsci/table?q=demographic&tid=ACSDP5Y2020.DP04
+DP05,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,https://data.census.gov/cedsci/table?q=demographic&tid=ACSDP5Y2020.DP05
+CP02,COMPARATIVE SOCIAL CHARACTERISTICS IN THE UNITED STATES,https://data.census.gov/cedsci/table?q=demographic&tid=ACSCP5Y2020.CP02
+CP03,COMPARATIVE ECONOMIC CHARACTERISTICS,https://data.census.gov/cedsci/table?q=demographic&tid=ACSCP5Y2020.CP03
+CP04,COMPARATIVE HOUSING CHARACTERISTICS,https://data.census.gov/cedsci/table?q=demographic&tid=ACSCP5Y2020.CP04
+CP05,COMPARATIVE DEMOGRAPHIC ESTIMATES,https://data.census.gov/cedsci/table?q=demographic&tid=ACSCP5Y2020.CP05
+S1501,EDUCATIONAL ATTAINMENT,https://data.census.gov/cedsci/table?q=Education&tid=ACSST5Y2020.S1501
+S1901,INCOME IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS),https://data.census.gov/cedsci/table?q=income&tid=ACSST5Y2020.S1901
+S2301,EMPLOYMENT STATUS,https://data.census.gov/cedsci/table?q=Employment&tid=ACSST5Y2020.S2301
+S2501,OCCUPANCY CHARACTERISTICS,https://data.census.gov/cedsci/table?q=S2501%3A%20OCCUPANCY%20CHARACTERISTICS&tid=ACSST5Y2020.S2501
+S2503,FINANCIAL CHARACTERISTICS,https://data.census.gov/cedsci/table?q=income&tid=ACSST5Y2020.S2503
+S2701,SELECTED CHARACTERISTICS OF HEALTH INSURANCE COVERAGE IN THE UNITED STATES,https://data.census.gov/cedsci/table?q=Health%20Insurance&tid=ACSST5Y2020.S2701
