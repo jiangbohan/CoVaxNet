@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to forkify 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/forkify" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/forkify.svg">
   </a>
-  <a href="https://github.com/Kvaibhav01/Forkify-JS#readme" target="_blank">
+  <a href="https://github.com/Jiangbohan/CoVaxNet#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/Kvaibhav01/Forkify-JS/graphs/commit-activity" target="_blank">
@@ -11,9 +9,6 @@
   </a>
   <a href="https://github.com/Kvaibhav01/Forkify-JS/blob/master/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/github/license/Kvaibhav01/forkify" />
-  </a>
-  <a href="https://twitter.com/vaibhav_khulbe" target="_blank">
-    <img alt="Twitter: vaibhav_khulbe" src="https://img.shields.io/twitter/follow/vaibhav_khulbe.svg?style=social" />
   </a>
 </p>
 
