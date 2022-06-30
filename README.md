@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to forkify 👋</h1>
 <p>
   </a>
   <a href="https://github.com/Jiangbohan/CoVaxNet#readme" target="_blank">
@@ -13,7 +12,7 @@
 </p>
 
 # CoVaxNet
-CoVaxNet: An Online-Offline Data Repository for COVID-19 Vaccine Hesitancy Research
+An Online-Offline Data Repository for COVID-19 Vaccine Hesitancy Research
 - Paper submitted to SBP-BRiMS 2022
 
 # Overview
