@@ -7,7 +7,7 @@
   <a href="https://github.com/Jiangbohan/CoVaxNet/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Kvaibhav01/Forkify-JS/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/Jiangbohan/CoVaxNet/blob/master/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/github/license/Kvaibhav01/forkify" />
   </a>
 </p>
