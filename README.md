@@ -13,7 +13,6 @@
 
 # CoVaxNet
 An Online-Offline Data Repository for COVID-19 Vaccine Hesitancy Research
-- Paper submitted to SBP-BRiMS 2022
 - [Preprint](https://arxiv.org/abs/2207.01505)
 
 
