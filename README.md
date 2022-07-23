@@ -31,7 +31,7 @@ If you are using this repo, please cite our [paper](https://arxiv.org/abs/2207.0
 |Name|Paper|Code|
 |---|---|---|
 |CoVaxxy|[CoVaxxy: A collection of English-language Twitter posts about COVID-19 vaccines (ICWSM'21)](https://ojs.aaai.org/index.php/ICWSM/article/view/18122)|[data](https://github.com/osome-iu/CoVaxxy#dashboard)|
-|ReCOVery|[ReCOVery: A Multimodal Repository for COVID-19 News Credibility Research (ICWSM'21)](https://ojs.aaai.org/index.php/ICWSM/article/view/18122)|[data](https://github.com/osome-iu/CoVaxxy#dashboard)|
+
 
 # Contact
 Please contact bjiang14@asu.edu if you have any question on CoVaxNet.
