@@ -37,7 +37,7 @@ If you are using this repo, please cite our [paper](https://arxiv.org/abs/2207.0
 |ANTi-Vax|[ANTi-Vax: a novel Twitter dataset for COVID-19 vaccine misinformation detection (Public Health'21)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648668/)|[data](https://github.com/SakibShahriar95/ANTiVax)|
 |Vaccine stance|[The Longest Month: Analyzing COVID-19 Vaccination Opinions Dynamics From Tweets in the Month Following the First Vaccine Announcement (IEEE Access'21)](https://www.scienceopen.com/document_file/aa59bd41-d616-437b-bfa7-7163938b37d9/PubMedCentral/aa59bd41-d616-437b-bfa7-7163938b37d9.pdf)|[data](https://github.com/liviucotfas/covid-19-vaccination-stance-detection)|
 |VacStance|[Detecting Stance on Covid-19 Vaccine in a Polarized Media](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5693&context=gc_etds)|[data](https://github.com/ThoughtfulMind/VacStance)|
-|COVID-19-Stance|[Stance Detection in COVID-19 Tweets (ACL'21)]([https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5693&context=gc_etds](https://aclanthology.org/2021.acl-long.127.pdf))|[data](https://github.com/kglandt/stance-detection-in-covid-19-tweets)|
+|COVID-19-Stance|[Stance Detection in COVID-19 Tweets (ACL'21)](https://aclanthology.org/2021.acl-long.127.pdf)|[data](https://github.com/kglandt/stance-detection-in-covid-19-tweets)|
 
 
 # Contact
