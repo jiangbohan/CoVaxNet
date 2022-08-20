@@ -39,6 +39,13 @@ If you are using this repo, please cite our [paper](https://arxiv.org/abs/2207.0
 |VacStance|[Detecting Stance on Covid-19 Vaccine in a Polarized Media](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5693&context=gc_etds)|[data](https://github.com/ThoughtfulMind/VacStance)|
 |COVID-19-Stance|[Stance Detection in COVID-19 Tweets (ACL'21)](https://aclanthology.org/2021.acl-long.127.pdf)|[data](https://github.com/kglandt/stance-detection-in-covid-19-tweets)|
 
+# Related paper
+|Category|Paper|Link|
+|---|---|---|
+|taxonomy|The 5As: A practical taxonomy for the determinants of vaccine uptake|[paper](https://www.sciencedirect.com/science/article/pii/S0264410X15017466)|
+|taxonomy|Vaccine hesitancy: Definition, scope and determinants|[paper](https://www.sciencedirect.com/science/article/pii/S0264410X15005009)|
+
+
 
 # Contact
 Please contact bjiang14@asu.edu if you have any question on CoVaxNet.
