@@ -46,9 +46,9 @@ If you are using this repo, please cite our [paper](https://arxiv.org/abs/2207.0
 |taxonomy|Vaccine hesitancy: Definition, scope and determinants|[paper](https://www.sciencedirect.com/science/article/pii/S0264410X15005009)|
 
 # Toolbox
-|Category|Tool|Demo|
+|Name|Tool|Demo|
 |---|---|---|
-|Toolbox|[Exploring Relations between Online and Offline Data in a Pandemic (IDeaS'21)](https://docs.google.com/presentation/d/1WVD7FhAJD6Bct6Fb3hKzmpQkl0DN7qL6IWAmLcYrZ1s/edit#slide=id.g13eddef4e9c_0_30)|[link](https://cmu.app.box.com/s/y9eafpizqc8kzi6vqa8s9pdhp5m5si6s)|
+|EXPO2O|[Exploring Relations between Online and Offline Data in a Pandemic (IDeaS'21)](https://docs.google.com/presentation/d/1WVD7FhAJD6Bct6Fb3hKzmpQkl0DN7qL6IWAmLcYrZ1s/edit#slide=id.g13eddef4e9c_0_30)|[Video](https://cmu.app.box.com/s/y9eafpizqc8kzi6vqa8s9pdhp5m5si6s)|
 
 # Contact
 Please contact bjiang14@asu.edu if you have any question on CoVaxNet.
